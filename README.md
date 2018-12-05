@@ -55,6 +55,10 @@ I work best in one-on-one or small group situations
 
 I love fast-paced collaborative conversations, especially around a whiteboard :-)
 
+I like big-picture thinking and need lots of context before I fully get going. I am happy to dive into the detail as well, and don't have too many problems switching between big-picture and detail thinking.
+
+I love systems thinking and am better at designing processes than I am at following them.
+
 ## My personality quirks
 
 I have some pretty strong perfectionist tendencies. If you think that sounds like a cop-out, you don't know how paralysing and stressful it can be to hold yourself to unobtainably high levels.
