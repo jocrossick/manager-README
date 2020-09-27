@@ -4,66 +4,73 @@ What's a readme? Why have one? More here! https://managerreadme.com/
 
 ## Let's talk :-)
 
-So, let's start with the obvious stuff. I am busy! But this is my problem, not yours - you should never feel like my inability to manage my time should impact on you. The best way to get time with me is to **put time in my diary** (please try not to overlap with a pre-existing commitments). I will always prioritise one-on-one time with people who book it in with me.
+I'm really looking forward to getting to know a lot of people over the next few weeks :-) Feel free to drop me a slack any time, put some time in my diary or even phone me up.
 
-## Quickstart guide
+Don't know what to talk about? Areas of interest and/or expertise for me include:
+* Agile, lean and DevOps cultures and processes (theory of constraints is one of my faves)
+* Diversity, inclusivity and belonging at work
+* Career progression - what's next for you, how you're approaching it, how to set career goals and objectives, etc, etc.
+* Office politics, networking, and gossip ;-)
+* Scaling teams and companies
+* Work-life balance, especially work/kid juggling hacks!
+* Pair and mob programming
+* Your favourite solution architecture patterns
+* Functional vs OO programming... which is better, and why.
+* Show me your holiday pics/kids/pets/favourite gifs and memes.
+* My Little Pony, dinosaurs, Disney Princesses... (kids are getting into Pokemon next but still at the WTF stage with those...)
 
-**Rule 1: No surprises**
-
-That means:
-* I value transparency, and I will always strive to never surprise you!
-* That goes for client engagements too - I will always try to make sure that everyone knows what is going to happen next.
-* The nature of our work means that situations sometimes change quickly. If you're involved I will try to keep you up to date.
-* If you want to have a chat about something in particular, then that's cool - but you're more likely to get more out of it if you give me a heads up on the topic first.
-* If there's something on your mind then please tell me.
-* If you want to give me feedback then give me a heads up first.
-* If I feel you are under-performing in any areas I will strive to talk to you about it _before_ it becomes a problem.
+Honestly I can find pretty much anything interesting (although if it’s anything sports-based, you’re going to have to start at a very basic level for me... sorry Toby)
 
 ## My role
 
-I'm a squad lead at AND Digital. As a squad lead, I have three jobs:
-1. I'm a line manager for my squad, which means I look after their personal and career development at AND
-2. I lead a client engagement, which means I look after the client relationship and the team working on a client
-3. I am part of the club ops team for Club Turing, which means I help keep the club running smoothly, inputting into things like our performance and progression process.
+As an engineering manager, I have three main responsibilities:
+1. My first responsibility is to the people in my team, helping them excel in the job they're doing today and grow so that they can excel at whatever they want to do in the future. 
+2. I support delivery, by helping micro-teams with their work. This might be through supporting improvements in ways of working or processes, thoughts and discussions on technical approaches, and pitching in to get work done when appropriate.
+3. I work with Toby, Iago and senior people in the team to make sure we've always got a holistic view of engineering at FundApps, are planning for the future and keeping everything running smoothly.
 
 ## My leadership style
 
 My preferred style is to work with teams with large amounts of autonomy and to have a strong coaching element to my role. I always strive to make teams self-organising and take collective responsibility. If you ask me "what should I do", I'll take that as a starting point for a conversation.
 
-Sometimes when there's a lot of pressure I'll move to a more command-and-control style. I don't see this as a positive leadership style, although it can be useful for getting team out of a tight spot, so this should be the exception rather than the rule and should never be for extended periods. If you feel like I'm doing this, please raise it with me. You may be rude about it if you wish!
+If the team is in a tight spot then I might move to a more command-and-control style for short periods. Hopefully you won't see this :-)
 
-One of my growth areas that I'm still working on is effective delegating. If you see something that I'm doing that you would like to do, the chances are I'll be happy to let you take it on!
+My first rule of leadership is **no surprises**. That means:
+* I value transparency, and I hate surprises - I'll always try hard to avoid surprising you!
+* If you want to have a chat about something in particular, then that's cool - but you're more likely to get more out of it if you give me a heads up on the topic first.
+* If there's something on your mind then please tell me - I'm not a mind-reader.
+* If there's something on my mind then I'll always try to to talk about it _before_ it becomes a problem.
 
 ## My values
 
 I value...
-* Intellectual curiosity
-* Reliability and conscientiousness
-* Hard work and rigour
+* Intellectual curiosity, experimentation and growth mindset
 * Collaboration and constructive challenge
 * Kindness and generosity
+* Reliability, conscientiousness and rigour
 
-## About feedback
+## Getting the most out of working with me
 
-If you want generic/wide-ranging feedback, it'll be more fully formed if you give me a couple of days to mull it over. I generally make notes, discuss it face to face, and then will give you my notes afterwards. If you'd like it in a different form, please let me know.
+I work best in one-on-one or small group situations. In bigger groups, I'll often play the observer or the facilitator.
 
-Fun fact: Squad leads don't get nearly as much feedback as they want or need. If you give me feedback, it will be gratefully received.
-
-## Getting the most out of me
-
-I work best in one-on-one or small group situations
-
-I love fast-paced collaborative conversations, especially around a whiteboard :-)
-
-I like big-picture thinking and need lots of context before I fully get going. I am happy to dive into the detail as well, and don't have too many problems switching between big-picture and detail thinking.
+I like big-picture thinking and work best if given plenty of context. I am happy to dive into the detail as well, and don't have too many problems switching between big-picture and detail thinking. I love fast-paced collaborative conversations, especially around a whiteboard (let's see how that works remotely!).
 
 I love systems thinking and am better at designing processes than I am at following them.
 
+My superpower is asking questions.
+
 ## My personality quirks
 
-I have some pretty strong perfectionist tendencies. If you think that sounds like a cop-out, you don't know how paralysing and stressful it can be to hold yourself to unobtainably high levels.
+I'm mostly pragmatic but sometimes I tend towards perfectionism.
 
-My job involves a lot of context switching, a lot of meetings and keeping an eye on many things at once. This can be a stress trigger for me.
+My job usually involves a lot of context switching, a lot of meetings and keeping an eye on many things at once. This is usually happy chaos for me but if it gets too much then it can become a stress trigger.
 
-I am not always the best at reading sub-text. If your communication protocols rely on body-language, reading between the lines or noticing social interactions, you should expect high packet loss.
+I have a tendency to take things literally and am not always the best at reading sub-text. If your communication protocols rely on hints or noticing social interactions, you should expect high packet loss :-)
 
+## Personal context:
+* My husband is called Josh. He’s a product person. We have two daughters, ages 9 and 6.
+* I don’t generally get time for hobbies (see above), but I will move heaven and earth to get a ski trip in (I am an extremely good skier).
+* Bit of a coffee snob.
+* I have two cats. They’re called Alfred and Arthur. They’re British Shorthairs, more affectionate and more demanding than cats should be.
+* I don’t read much, but when I do, it’s sci-fi or Terry Pratchett.
+* Occasional gamer (PS4). Revisiting my youth with Tony Hawk’s Pro Skater 1 + 2.
+* We moved to Barcelona just over a year ago from SW London because we could, so we did. It’s been great! (Apart from the bits where we’ve been stuck indoors)
