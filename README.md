@@ -9,8 +9,7 @@ I'm really looking forward to getting to know a lot of people over the next few 
 Don't know what to talk about? Areas of interest and/or expertise for me include:
 * Agile, lean and DevOps cultures and processes (theory of constraints is one of my faves)
 * Diversity, inclusivity and belonging at work
-* Career progression - what's next for you, how you're approaching it, how to set career goals and objectives, etc, etc.
-* Office politics, networking, and gossip ;-)
+* Career progression - what's next for you, how you're approaching it, how to set career goals and objectives, etc.
 * Scaling teams and companies
 * Work-life balance, especially work/kid juggling hacks!
 * Pair and mob programming
