@@ -24,13 +24,13 @@ Honestly I can find pretty much anything interesting (although if it’s anythin
 ## My role
 
 As an engineering manager, I have three main responsibilities:
-1. My first responsibility is to the people in my team, helping them excel in the job they're doing today and grow so that they can excel at whatever they want to do in the future. 
-2. I support delivery, by helping micro-teams with their work. This might be through supporting improvements in ways of working or processes, thoughts and discussions on technical approaches, and pitching in to get work done when appropriate.
-3. I work with Toby, Iago and senior people in the team to make sure we've always got a holistic view of engineering at FundApps, are planning for the future and keeping everything running smoothly.
+1. My first responsibility is to the people in my team, helping them excel in the job they're doing today and supporting their growth so they can excel at whatever they want to do in the future. 
+2. I support delivery, by helping delivery teams with their work. This might be through supporting improvements in ways of working or processes, thoughts and discussions on technical approaches, or pitching in to get work done when appropriate.
+3. I work with other senior people in the department to make sure we've always got a holistic view of the engineering department, are planning for the future and keeping everything running smoothly.
 
 ## My leadership style
 
-My preferred style is to work with teams with large amounts of autonomy and to have a strong coaching element to my role. I always strive to make teams self-organising and take collective responsibility. If you ask me "what should I do", I'll take that as a starting point for a conversation.
+My preferred style is to work with teams with large amounts of autonomy and I generally take a strong coaching approach to my role. I always strive to make teams self-organising and take collective responsibility. If you ask me "what should I do", I'll take that as a starting point for a conversation.
 
 If the team is in a tight spot then I might move to a more command-and-control style for short periods. Hopefully you won't see this :-)
 
